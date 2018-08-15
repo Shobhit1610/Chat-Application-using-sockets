@@ -1,4 +1,4 @@
-# Simple_Socket_Chat_App
+# Simple Chat App using sockets
 It is a small project made using sockets in java. It contains two java files one for Server and one for Client.
 Server is multithreaded so for every client request a new thread will be generated which makes possible for multiple clients to communicate simultaneously.
 ## How to run
